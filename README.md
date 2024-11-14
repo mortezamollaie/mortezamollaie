@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm morteza mollaie</h1>
 <h3 align="center">A Software enginner</h3>
 
-- 🌱 I’m currently learning **Laravel, React and MachineLearning**
+- 🌱 I’m currently learning **Laravel, Vue and MachineLearning**
 
 - 👨‍💻 All of my projects are available at [mortezamollaie.liara.run](mortezamollaie.liara.run)
 
